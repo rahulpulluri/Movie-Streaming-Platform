@@ -1,4 +1,4 @@
-# Netflix Clone Streaming Platform
+# Movie Streaming Platform
 
 This is a clone of the Netflix streaming platform built using modern web technologies. It includes features like user authentication, movie/TV show browsing, search functionality, and responsive design.
 
