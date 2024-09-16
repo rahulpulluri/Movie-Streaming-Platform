@@ -10,7 +10,6 @@ This is a clone of the Netflix streaming platform built using modern web technol
 - **Secure Routes**: Protect private routes with middleware.
 - **Responsive Design**: Fully responsive UI, optimized for both desktop and mobile devices.
 - **Error Handling**: Custom 404 page for invalid routes.
-- **Deployment**: Application is deployed and publicly accessible.
 
 ## Tech Stack
 - **Frontend**: React.js, Tailwind CSS
